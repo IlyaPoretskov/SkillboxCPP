@@ -79,4 +79,5 @@ int main() {
     if (draw == 1) {cout << "Nobody\n";}
     if (winXs == 1) {cout << "Petya won\n";}
     if (winOs == 1) {cout << "Vanya won\n";}
+    system("pause");
 }
