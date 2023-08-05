@@ -73,5 +73,5 @@ int main() {
     {
         cout << "Invalid";
     }
-    
+    system("pause");
 }
