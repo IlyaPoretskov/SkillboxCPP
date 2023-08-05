@@ -29,4 +29,5 @@ int main() {
     cout << "\nCode:\n";
     cout << encrypt_caesar(str, n) << "\n\nDecode:\n\n";
     cout << decrypt_caesar(str, n) << "\n";
+    system("pause");
 }
